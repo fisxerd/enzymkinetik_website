@@ -1,4 +1,4 @@
-# enzymkinetik_website
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
