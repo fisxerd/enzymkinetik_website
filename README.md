@@ -94,7 +94,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2022 Enzymkinetik für Schüler </p>
+        <p>&copy; Enzymkinetik für Schüler </p>
     </footer>
 </body>
 </html>
